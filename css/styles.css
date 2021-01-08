@@ -8,12 +8,17 @@ h2, h3 {
 .jumbotron {
     margin: 0;
     padding: 30px;
-    background-image:url(/img/naruto-symbol.jpg);
+    background-image:url(/img/ichiraku2.jpeg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 200px;
+    height: 600px;
     color: rgb(224, 121, 3)
+}
+
+.site-footer{
+    background-image: linear-gradient(white, #0e0d0d);
+    padding: 20px 0;
 }
 
 .row-content {
